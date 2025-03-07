@@ -1,0 +1,102 @@
+[
+  {
+    "ID Cliente": "001",
+    "Nombre": "Juan Pérez",
+    "Email": "juan.perez@email.com",
+    "Producto": "Camisa",
+    "Cantidad": 2,
+    "Fecha de compra": "2025-03-01",
+    "Precio unitario": 20.00,
+    "Total": 40.00
+  },
+  {
+    "ID Cliente": "002",
+    "Nombre": "María Gómez",
+    "Email": "maria.gomez@email.com",
+    "Producto": "Pantalón",
+    "Cantidad": 1,
+    "Fecha de compra": "2025-03-02",
+    "Precio unitario": 30.00,
+    "Total": 30.00
+  },
+  {
+    "ID Cliente": "003",
+    "Nombre": "Ana López",
+    "Email": "ana.lopez@email.com",
+    "Producto": "Camisa",
+    "Cantidad": 3,
+    "Fecha de compra": "2025-03-03",
+    "Precio unitario": 20.00,
+    "Total": 60.00
+  },
+  {
+    "ID Cliente": "004",
+    "Nombre": "Luis Díaz",
+    "Email": "luis.diaz@email.com",
+    "Producto": "Zapatos",
+    "Cantidad": 1,
+    "Fecha de compra": "2025-03-04",
+    "Precio unitario": 50.00,
+    "Total": 50.00
+  },
+  {
+    "ID Cliente": "005",
+    "Nombre": "Carmen Ruiz",
+    "Email": "carmen.ruiz@email.com",
+    "Producto": "Camisa",
+    "Cantidad": 2,
+    "Fecha de compra": "2025-03-05",
+    "Precio unitario": 20.00,
+    "Total": 40.00
+  },
+  {
+    "ID Cliente": "006",
+    "Nombre": "Juan Pérez",
+    "Email": "juan.perez@email.com",
+    "Producto": "Camisa",
+    "Cantidad": 2,
+    "Fecha de compra": "2025-03-01",
+    "Precio unitario": 20.00,
+    "Total": 40.00
+  },
+  {
+    "ID Cliente": "007",
+    "Nombre": "José Martín",
+    "Email": "jose.martin@email.com",
+    "Producto": "Pantalón",
+    "Cantidad": 1,
+    "Fecha de compra": "2025-03-06",
+    "Precio unitario": 30.00,
+    "Total": 30.00
+  },
+  {
+    "ID Cliente": "008",
+    "Nombre": "Laura Vidal",
+    "Email": "laura.vidal@email.com",
+    "Producto": "Falda",
+    "Cantidad": 1,
+    "Fecha de compra": "2025-03-07",
+    "Precio unitario": 25.00,
+    "Total": 25.00
+  },
+  {
+    "ID Cliente": "009",
+    "Nombre": "Carlos Rey",
+    "Email": "carlos.rey@email.com",
+    "Producto": "Camisa",
+    "Cantidad": 2,
+    "Fecha de compra": "2025-03-01",
+    "Precio unitario": 20.00,
+    "Total": 40.00
+  },
+  {
+    "ID Cliente": "010",
+    "Nombre": "Patricia Pérez",
+    "Email": "patricia@email.com",
+    "Producto": "Zapatos",
+    "Cantidad": 1,
+    "Fecha de compra": "2025-03-04",
+    "Precio unitario": 50.00,
+    "Total": 50.00
+  }
+]  
