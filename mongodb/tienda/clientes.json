@@ -1,0 +1,37 @@
+[
+  {
+    "_id": 1,
+    "nombre": "Juan Pérez",
+    "email": "juan.perez@example.com"
+  },
+  {
+    "_id": 2,
+    "nombre": "Ana Gómez",
+    "email": "ana.gomez@example.com"
+  },
+  {
+    "_id": 3,
+    "nombre": "Juan Pérez",
+    "email": "juan.perez@example.com"
+  },
+  {
+    "_id": 4,
+    "nombre": "Carlos López",
+    "email": "carlos.lopez@example.com"
+  },
+  {
+    "_id": 5,
+    "nombre": "Ana Gómez",
+    "email": "ana.gomez@example.com"
+  },
+  {
+    "_id": 6,
+    "nombre": "Laura Martínez",
+    "email": "laura.martinez@example.com"
+  },
+  {
+    "_id": 7,
+    "nombre": "Carlos López",
+    "email": "carlos.lopez@example.com"
+  }
+]

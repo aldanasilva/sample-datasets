@@ -1,0 +1,37 @@
+[
+  {
+    "_id": 1,
+    "nombre": "Camiseta",
+    "categoria": "Ropa",
+    "precio": "20.5",
+    "fecha_agregado": "2024-01-15T14:30:00Z"
+  },
+  {
+    "_id": 2,
+    "nombre": "Pantalón",
+    "categoria": "Ropa",
+    "precio": "35.0",
+    "fecha_agregado": "2024-01-10T10:00:00Z"
+  },
+  {
+    "_id": 3,
+    "nombre": "Zapatillas",
+    "categoria": "Calzado",
+    "precio": "50.0",
+    "fecha_agregado": "2024-01-12T11:15:00Z"
+  },
+  {
+    "_id": 4,
+    "nombre": "Chaqueta",
+    "categoria": "Ropa",
+    "precio": "60.0",
+    "fecha_agregado": "2024-01-05T09:45:00Z"
+  },
+  {
+    "_id": 5,
+    "nombre": "Sombrero",
+    "categoria": "Accesorios",
+    "precio": "15.0",
+    "fecha_agregado": "2024-01-20T16:00:00Z"
+  }
+]
